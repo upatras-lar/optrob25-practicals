@@ -1,0 +1,19 @@
+OptRob25_Lecture_*.pdf
+lecture.pdf
+hw.pdf
+.ipynb_checkpoints
+__pycache__
+*.aux
+*.log
+*.nav
+*.out
+*.toc
+*.snm
+*.npy
+*.mp4
+*.vrb
+Lecture 2/figs/.DS_Store
+Lecture 3/figs/.DS_Store
+preamble.tex
+
+axes
